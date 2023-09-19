@@ -26,4 +26,4 @@ server.listen(8000, () => {
     console.log("8000번 포트에서 Web Server 실행")
 })
 
-//something changed
+//something changed2
